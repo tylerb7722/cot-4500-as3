@@ -15,7 +15,7 @@ This can be done by using the requirements.txt file.
 4. You will see the program has run and will see the output on the command prompt screen.
 
 
-# Running this code will display the numerical computational results for 8 various topics: 
+# Running this code will display the numerical computational results for 6 various topics: 
 
 1. Eulers method given Function t-y^2, 
 range 0 < t < 2, with 10 iterations, and initial point f(0) = 1.
@@ -31,7 +31,10 @@ range 0 < t < 2, with 10 iterations, and initial point f(0) = 1.
 [-1, 5,4, |-3]
 
 
-4. LU Factorization for the following matrix printing A. matrix determinate, B. Lower matrix, and C. Upper Matrix:
+4. LU Factorization for the following matrix printing;
+A. matrix determinate, 
+B. Lower matrix,
+C. Upper Matrix:
 [1, 1, 0, 3]
 [2, 1,-1, 1]
 [3,-1,-1, 2]
